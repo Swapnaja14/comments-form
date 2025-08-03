@@ -1,0 +1,13 @@
+.comment {
+    border: 1px solid pink;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.all-comments {
+    border: 1px solid white;
+    border-radius: 1.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
