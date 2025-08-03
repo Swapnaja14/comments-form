@@ -3,3 +3,9 @@
     border-radius: 1rem;
     padding: 1rem;
 }
+
+.error-message {
+    font-size: smaller;
+    color: red;
+    font-weight: bold;
+}
